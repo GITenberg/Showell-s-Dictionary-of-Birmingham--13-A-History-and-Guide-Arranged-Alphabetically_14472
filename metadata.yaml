@@ -1,0 +1,30 @@
+_repo: Showell-s-Dictionary-of-Birmingham--13-A-History-and-Guide-Arranged-Alphabetically_14472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Showell, Walter
+    birthdate: 1835
+    deathdate: 1901
+    gutenberg_agent_id: '5539'
+    url: http://www.gutenberg.org/2009/agents/5539
+  - agent_name: Harman, Thomas T.
+    gutenberg_agent_id: '5538'
+    url: http://www.gutenberg.org/2009/agents/5538
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Birmingham (England) -- History -- Dictionaries'
+title: "Showell's Dictionary of Birmingham\r\nA History and Guide, Arranged Alphabetically"
+url: http://www.gutenberg.org/ebooks/14472
